@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f932a0e1-d49b-4f16-b9d7-0bd7b4a2f299}">
+        <property name="assetPath">
+            <value>Week4/FootstepMetalSand x/FootstepMetalSand1.40.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.59723356009070294</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{71a7f321-3b76-4b13-8e93-c894daf81666}</destination>
+        </relationship>
+    </object>
+</objects>

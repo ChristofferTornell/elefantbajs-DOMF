@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{99e5de3f-0a8f-4cd3-8b9a-cce5d188b4c1}">
+        <property name="name">
+            <value>Capture point LOST parameter</value>
+        </property>
+        <relationship name="folder">
+            <destination>{7b611ed5-c709-422d-817c-f27e1a53a59c}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{5e11ff47-e1d8-4a71-b24d-11b53c8827a6}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{5e11ff47-e1d8-4a71-b24d-11b53c8827a6}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

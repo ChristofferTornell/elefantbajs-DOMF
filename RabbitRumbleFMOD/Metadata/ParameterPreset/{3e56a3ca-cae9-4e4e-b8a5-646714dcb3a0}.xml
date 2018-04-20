@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{3e56a3ca-cae9-4e4e-b8a5-646714dcb3a0}">
+        <property name="name">
+            <value>Footstep Enemy Parameter</value>
+        </property>
+        <relationship name="folder">
+            <destination>{7b611ed5-c709-422d-817c-f27e1a53a59c}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{a870ace2-c2a5-4c8d-9fb9-fb2f9434df4b}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{a870ace2-c2a5-4c8d-9fb9-fb2f9434df4b}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{9c2e4c37-77f1-4e39-847a-3762774fb308}">
+        <property name="name">
+            <value>Special Ammo Parameter</value>
+        </property>
+        <relationship name="folder">
+            <destination>{7b611ed5-c709-422d-817c-f27e1a53a59c}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{07553f93-6df2-47ae-a7d4-d0706ac103d0}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{07553f93-6df2-47ae-a7d4-d0706ac103d0}">
+        <property name="maximum">
+            <value>2</value>
+        </property>
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>
